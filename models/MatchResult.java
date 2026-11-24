@@ -2,7 +2,8 @@ package models;
 
 import java.util.ArrayList;
 
-public class MatchResult {
+
+public class MatchResult { //For matching result objects
     private Internship internship;
     private double compatibilityScore;
     private boolean eligible;

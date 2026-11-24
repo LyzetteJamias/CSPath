@@ -2,7 +2,7 @@ package models;
 
 import java.util.ArrayList;
 
-public class InternshipMatchResult {
+public class InternshipMatchResult { //For internship matching result objects
     private ArrayList<MatchResult> eligibleInternships;
     private ArrayList<MatchResult> ineligibleInternships;
 
